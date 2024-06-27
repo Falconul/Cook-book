@@ -1,2 +1,3 @@
 # Cook-book
-2. Project
+
+This project is my second project in Software. My 1st cookbook project.
